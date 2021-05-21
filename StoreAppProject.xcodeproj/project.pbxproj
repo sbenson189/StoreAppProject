@@ -17,6 +17,7 @@
 		5E039465265801C7009639B7 /* StoreAppProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E039464265801C7009639B7 /* StoreAppProjectTests.swift */; };
 		5E039470265801C7009639B7 /* StoreAppProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E03946F265801C7009639B7 /* StoreAppProjectUITests.swift */; };
 		5E03947E265809BF009639B7 /* LoginPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E03947D265809BF009639B7 /* LoginPageViewController.swift */; };
+		5E03948026580D50009639B7 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E03947F26580D50009639B7 /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5E03946F265801C7009639B7 /* StoreAppProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreAppProjectUITests.swift; sourceTree = "<group>"; };
 		5E039471265801C7009639B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E03947D265809BF009639B7 /* LoginPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageViewController.swift; sourceTree = "<group>"; };
+		5E03947F26580D50009639B7 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				5E03944C265801C5009639B7 /* SceneDelegate.swift */,
 				5E03944E265801C5009639B7 /* ViewController.swift */,
 				5E039450265801C5009639B7 /* Main.storyboard */,
+				5E03947F26580D50009639B7 /* SignUpViewController.swift */,
 				5E03947D265809BF009639B7 /* LoginPageViewController.swift */,
 				5E039456265801C7009639B7 /* Assets.xcassets */,
 				5E039458265801C7009639B7 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E03948026580D50009639B7 /* SignUpViewController.swift in Sources */,
 				5E03944F265801C5009639B7 /* ViewController.swift in Sources */,
 				5E039455265801C5009639B7 /* StoreAppProject.xcdatamodeld in Sources */,
 				5E03944B265801C5009639B7 /* AppDelegate.swift in Sources */,
